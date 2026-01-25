@@ -1,0 +1,79 @@
+[package]
+name = "pm_bot_core"
+default-run = "engine"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1"
+base64 = "0.22"
+chrono = { version = "0.4", default-features = false, features = ["std", "clock"] }
+alloy = { version = "1.1.3", features = ["signer-local", "dyn-abi", "eip712"] }
+hmac = "0.12"
+reqwest = { version = "0.12", features = ["json", "blocking"] }
+serde = { version = "1", default-features = false, features = ["derive", "std"] }
+serde_json = "1"
+sha2 = "0.10"
+dotenvy = "0.15"
+tokio = { version = "1", features = ["rt-multi-thread", "sync", "time", "macros", "process"] }
+tokio-tungstenite = { version = "0.21", features = ["rustls-tls-webpki-roots"] }
+futures = "0.3"
+polymarket-client-sdk = { version = "0.4", features = ["clob"] }
+rust_decimal_macros = "1.34"
+rand = "0.8"
+rustc-hash = "1.1"
+ryu = "1.0"
+itoa = "1.0"
+memchr = "2"
+once_cell = "1"
+teloxide = { version = "0.12", features = ["macros"] }
+tokio-stream = "0.1"
+
+[dev-dependencies]
+criterion = "0.5"
+smallstr = "0.3"
+
+[profile.dev]
+opt-level = 0              # No optimization (fast compile)
+debug = 0                  # No debug symbols (saves memory/time)
+codegen-units = 256        # Max parallelism per crate
+incremental = true         # Reuse previous work
+
+[profile.dev.package."*"]
+opt-level = 2              # But optimize dependencies
+
+[profile.release]
+lto = 'thin'          # Link-time optimization
+codegen-units = 2   # Better optimization, slower compile
+debug = true
+
+[[bin]]
+name = "engine"
+path = "src/engine.rs"
+
+[[bin]]
+name = "test"
+path = "src/bin/test.rs"
+
+[[bin]]
+name = "check"
+path = "src/bin/check.rs"
+
+[[bin]]
+name = "stream"
+path = "src/bin/stream.rs"
+
+[[bin]]
+name = "watch"
+path = "src/bin/watch.rs"
+
+[[bin]]
+name = "auth"
+path = "src/bin/auth.rs"
+
+[[bin]]
+name = "bot"
+path = "src/bin/bot.rs"
+
+[features]
+profiling = []
