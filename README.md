@@ -6,6 +6,9 @@ A Telegram bot interface for managing and controlling a high-performance Rust-ba
 
 - Telegram: [@yesnotrader](https://t.me/yesnotrader)
 
+## How To Trade W/ Telegram
+Watch demo: https://youtu.be/8PC0bKSgfhM
+
 ---
 ## 🚀 Quick Start
 
