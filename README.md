@@ -69,12 +69,19 @@ The Pro version delivers institutional-level performance with sub-second trade r
 ### 🎯 Key Differentiators
 
 ✅ **Multi-Whale Portfolio Engine** - Simultaneously track and copy from multiple traders with dynamic allocation
+
 ✅ **Intelligent Trade Filtering** - ML-powered trade selection with win-rate prediction and market condition analysis
+
 ✅ **Adaptive Position Sizing** - Dynamic position scaling based on market volatility, trader performance, and portfolio exposure
+
 ✅ **Advanced Order Routing** - Multi-venue execution with smart order splitting and optimal fill strategies
+
 ✅ **Portfolio Risk Engine** - Real-time correlation analysis, exposure limits, and automated position rebalancing
+
 ✅ **Performance Analytics Dashboard** - Comprehensive P&L tracking, trader attribution, and strategy backtesting
+
 ✅ **Market Regime Detection** - Automatic adaptation to different market conditions (trending, ranging, volatile)
+
 ✅ **Custom Strategy Builder** - Create and deploy custom trading rules with visual workflow editor
 
 For access to the Pro version and enterprise features, contact [@yesnotrader](https://t.me/yesnotrader) on Telegram.
