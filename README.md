@@ -1,7 +1,15 @@
-# Polymarket Copy Trading Bot - Telegram UI
+# Polymarket Trading Bots - Telegram UI🔥⚡
 
-A Telegram bot interface for managing and controlling a high-performance Rust-based automated trading bot that copies trades from successful Polymarket traders (whales) in real-time. This bot provides a user-friendly Telegram UI to configure, validate, and run trading bots, monitor blockchain events, execute copy trades automatically, and manage risk with built-in circuit breakers.
+Control blazing-fast **Rust-powered** automated trading bots right from Telegram 📱💨  
 
+🌟 **Core Superpowers Available** 🌟
+
+**🐳 Polymarket Copy Trading Bot**  
+**🏦 Polymarket Market Maker Bot (Market Maker Keeper)**  
+**⚡ Polymarket Arbitrage Bot**  
+
+
+---
 ## Contact & Support
 
 - Telegram: [@yesnotrader](https://t.me/yesnotrader)
