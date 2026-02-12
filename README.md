@@ -12,7 +12,7 @@ Control blazing-fast **Rust-powered** automated trading bots right from Telegram
 ---
 ## Contact & Support
 
-- Telegram: [@yesnotrader](https://t.me/yesnotrader)
+- Telegram: [@cccciri](https://t.me/cccciri)
 
 ## How To Trade W/ Telegram
 Watch demo: https://youtu.be/8PC0bKSgfhM
@@ -94,7 +94,7 @@ The Pro version delivers institutional-level performance with sub-second trade r
 
 ✅ **Custom Strategy Builder** - Create and deploy custom trading rules with visual workflow editor
 
-For access to the Pro version and enterprise features, contact [@yesnotrader](https://t.me/yesnotrader) on Telegram.
+For access to the Pro version and enterprise features, contact [@cccciri](https://t.me/cccciri) on Telegram.
 
 ---
 
@@ -193,4 +193,4 @@ polymarket-copytrade-ui/
 
 Fork, star, and contribute to the project on GitHub.
 
-For the updates of the current copy trader w/ your tradin' logic, Reach out via Telegram: [@yesnotrader](https://t.me/yesnotrader)
+For the updates of the current copy trader w/ your tradin' logic, Reach out via Telegram: [@cccciri](https://t.me/yesnotrader)
