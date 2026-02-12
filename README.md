@@ -17,6 +17,8 @@ Control blazing-fast **Rust-powered** automated trading bots right from Telegram
 ## How To Trade W/ Telegram
 Watch demo: https://youtu.be/8PC0bKSgfhM
 
+<img width="442" height="1021" alt="image" src="https://github.com/user-attachments/assets/e1606d15-32e5-4bd8-97a3-a697187c8af5" />
+
 ---
 ## 🚀 Quick Start
 
