@@ -75,14 +75,6 @@ Command your arbitrage empire from chat—ultra-fast, zero-slippage, and visiona
 - 🛡️ **Arbitrage Hunter | 15-Min Market Bot**: Order book analysis + auto-hedges, sim/real modes, threshold buys, exits, wallet ops, logs & configs.  
   [Access Bot](https://t.me/poly5mbot)
 
-### Screenshots & Demo
-- **Telegram UI**:  
-  <p float="left">
-   <img width="260" height="789" alt="image" src="https://github.com/user-attachments/assets/b15b436a-a7f2-4a47-b970-aa113f294e74" />
-   <img width="260" height="789" alt="telegram bot-1" src="https://github.com/user-attachments/assets/cbe68dc3-939a-4856-8a82-8e59d5588b1c" />
-   <img width="260" height="789" alt="telegram bot-2" src="https://github.com/user-attachments/assets/3810d21f-8eaa-4503-80ab-eaa54604cc46" />
-</p>
-
 ## ✨ Comprehensive Key Features (All Bots & Tools)
 
 Unleash arbitrage dominance—these features turn inefficiencies into your personal ATM.
