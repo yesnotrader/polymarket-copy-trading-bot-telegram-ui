@@ -101,9 +101,9 @@ Unleash arbitrage dominance—these features turn inefficiencies into your perso
 
 ## 📞 Contact & Community
 
-- 📱 Telegram: [@cccciridev](https://t.me/xxninex) — support, custom arbs, updates  
-- 🐦 X: [@cccciridev](https://x.com/xxniiinxx)  
-- 📹 YouTube: [@cccciridev](https://youtube.com/@xniiinx)  
+- 📱 Telegram: [@xxninex](https://t.me/xxninex) — support, custom arbs, updates  
+- 🐦 X: [@xxniiinxx](https://x.com/xxniiinxx)  
+- 📹 YouTube: [@xniiinx](https://youtube.com/@xniiinx)  
 
 ⭐ Star/fork the repo. Contributions welcome—especially 2026 arb adaptations, new leagues, or weather enhancements.
 
