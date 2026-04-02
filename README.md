@@ -101,7 +101,7 @@ Unleash arbitrage dominance—these features turn inefficiencies into your perso
 
 ## 📞 Contact & Community
 
-- 📱 Telegram: [@xxninex](https://t.me/xxninex) — support, custom arbs, updates  
+- 📱 Telegram: [@xxninex](https://t.me/xxninex) [@soulcrancerdev](https://t.me/soulcrancerdev) — support, custom arbs, updates  
 - 🐦 X: [@xxniiinxx](https://x.com/xxniiinxx)  
 - 📹 YouTube: [@xniiinx](https://youtube.com/@xniiinx)  
 
